@@ -1,1 +1,1 @@
-# Meinasin tehdä kryptovaluuttojen hinnoista hintakuvaajia eri aikajaksoina hankkien aineiston suoraan pythonin kautta lataamalla. Ehkä keksin siihen vielä jotain muuta päälle myöhemmin
+# Meinasin tehdä kryptovaluuttojen hinnoista hintakuvaajia eri aikajaksoina hankkien aineiston suoraan pythonin kautta lataamalla. Ehkä keksin siihen vielä jotain muuta päälle myöhemmin riippuu aivan mihin asti taidot riittää, kuitenkin kun on alkanut nuo asiat menemään velko vaikeaksi.
