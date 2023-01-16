@@ -1,1 +1,10 @@
-# Meinasin tehdä kryptovaluuttojen hinnoista hintakuvaajia eri aikajaksoina hankkien aineiston suoraan pythonin kautta lataamalla. Ehkä keksin siihen vielä jotain muuta päälle myöhemmin riippuu aivan mihin asti taidot riittää, kuitenkin kun on alkanut nuo asiat menemään velko vaikeaksi.
+Kryptohistoria kuvaajaksi-ohjelma hakee käyttäjän syöttämältä aikaväliltä kysytyn kryptovaluutan hintahistorian ja piirtää siitä joko yksinkertaisen viivakuvaajan tai kynttiläkuvaajan. Yksinkertainen viivakuvaaja piirtää joko yhden tai kaksi kryptovaluutan hintahistoriaa, joko samaan tai eri kuvaajaan käyttäjän syötteistä riippuen. Kynttiläkuvaajassa on myös lisättynä RSI- ja Bollingerin nauhat indikaattorit. Ohjelmalta voi myös kysyä tietyn kryptovaluutan nykyistä arvoa euroina.
+
+Ohjelma käyttää seuraavia moduuleja:
+
+cryptocompare
+pandas
+datetime
+matplotlib
+plotly
+
