@@ -12,6 +12,10 @@ Ohjelmalta voi myös kysyä tietyn kryptovaluutan vaihtosuhdetta euroina, jolloi
 
 ![image](https://user-images.githubusercontent.com/121788922/215993631-ea1aed6b-c694-45cb-926c-e901237289ed.png)
 
+Jos käyttäjällä ei ole mitään tietoa kryptovaluutoista voi hän printata listan 50 suurimmista kryptovaluutasta vaikka testailutarkoitukseen.
+
+![image](https://user-images.githubusercontent.com/121788922/215994542-c20c1c66-5394-43c7-be70-06b425ce8759.png)
+
 Ohjelma käyttää seuraavia moduuleja:
 
 cryptocompare
