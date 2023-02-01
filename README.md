@@ -4,7 +4,7 @@ Ohjelmassa on 4 toimintoa:
 
 ![image](https://user-images.githubusercontent.com/121788922/215994823-a5e5fdf9-7825-482a-97ae-f2a0c7a9cb81.png)
 
-1) Jos käyttäjällä ei ole mitään tietoa kryptovaluutoista voi hän printata listan 50 suurimmista kryptovaluutasta vaikka testitarkoitukseen.
+1) Jos käyttäjällä ei ole mitään tietoa kryptovaluutoista voi hän printata listan 50 suurimmasta kryptovaluutasta vaikka testitarkoitukseen (haettu 11.1.2023).
 
 ![image](https://user-images.githubusercontent.com/121788922/215994542-c20c1c66-5394-43c7-be70-06b425ce8759.png)
 
